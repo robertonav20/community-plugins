@@ -1,5 +1,11 @@
 ### Dependencies
 
+## 5.2.7
+
+### Patch Changes
+
+- 7843798: Updated dependency `qs` to `6.13.1`.
+
 ## 5.2.6
 
 ### Patch Changes
